@@ -731,9 +731,23 @@ export async function handleRestore(argv) {
 export async function handleSync(argv) {
   const contentFolder = resolveContentPath(argv.directory)
   console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)}\n`)
-  console.log("Backing up your content")
-
   if (argv.commit) {
+    const vaultPath = "/mnt/data/life-hub/10_Knowledge_OS"
+    if (fs.existsSync(vaultPath)) {
+      console.log(styleText("cyan", "Syncing content from Obsidian vault..."))
+      const foldersToSync = ["10_Spaces", "20_Brain_Atlas", "30_Assets"]
+      for (const folder of foldersToSync) {
+        const src = path.join(vaultPath, folder)
+        const dest = path.join(contentFolder, folder)
+        if (fs.existsSync(src)) {
+          const res = spawnSync("rsync", ["-a", "--delete", `${src}/`, `${dest}/`])
+          if (res.status !== 0) {
+            await fs.promises.cp(src, dest, { recursive: true, preserveTimestamps: true })
+          }
+        }
+      }
+    }
+
     const contentStat = await fs.promises.lstat(contentFolder)
     if (contentStat.isSymbolicLink()) {
       const linkTarg = await fs.promises.readlink(contentFolder)
