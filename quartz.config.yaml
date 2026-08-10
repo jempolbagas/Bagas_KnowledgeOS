@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bagas-knowledge-os.github.io
+  baseUrl: jempolbagas.github.io/Bagas_KnowledgeOS
   ignorePatterns:
     - private
     - templates
