@@ -73,7 +73,7 @@ plugins:
       enableYouTubeEmbed: true
       enableVideoEmbed: true
       enableCheckbox: true
-    order: 15
+    order: 21
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
