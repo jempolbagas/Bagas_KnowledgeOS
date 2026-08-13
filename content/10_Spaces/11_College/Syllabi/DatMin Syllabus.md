@@ -1,11 +1,26 @@
 ---
-title: "[DM] Syllabus - Data Mining"
-course: "Data Mining"
-tags: ["college", "syllabus", "rps", "semester-5"]
-aliases: ["DM Syllabus", "Data Mining Syllabus", "[DM] Syllabus - Data Mining"]
-created: "2026-07-27"
-type: Syllabus
+title: "[DATMIN] Syllabus - Data Mining"
+course: Data Mining
+course_abbr: DATMIN
+code: "12013220330"
+class_section: C
+sks: 3
+ects: 4.5
 semester: 5
+lecturer: Dr. Wiranto, M.Kom., M.Cs.
+tags:
+  - college
+  - syllabus
+  - rps
+  - data-mining
+  - semester-5
+aliases:
+  - DM Syllabus
+  - Data Mining Syllabus
+  - "[DM] Syllabus - Data Mining"
+created: 2026-07-27
+updated: 2026-08-13
+type: Syllabus
 ---
 
 # RENCANA PEMBELAJARAN SEMESTER (RPS)

@@ -1,11 +1,26 @@
 ---
-title: "[IP] Syllabus - Image Processing"
-course: "Image Processing"
-tags: ["college", "syllabus", "rps", "semester-5"]
-aliases: ["IP Syllabus", "Image Processing Syllabus", "[IP] Syllabus - Image Processing"]
-created: "2026-07-27"
-type: Syllabus
+title: "[IMPROC] Syllabus - Image Processing"
+course: Image Processing
+course_abbr: IMPROC
+code: "12013120332"
+class_section: B
+sks: 3
+ects: 4.5
 semester: 5
+lecturer: Ery Permana Yudha S.Kom., M.Kom.
+tags:
+  - college
+  - syllabus
+  - rps
+  - image-processing
+  - semester-5
+aliases:
+  - IP Syllabus
+  - Image Processing Syllabus
+  - "[IP] Syllabus - Image Processing"
+created: 2026-07-27
+updated: 2026-08-13
+type: Syllabus
 ---
 
 # RENCANA PEMBELAJARAN SEMESTER (RPS)

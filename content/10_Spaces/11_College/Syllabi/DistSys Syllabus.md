@@ -1,11 +1,26 @@
 ---
-title: "[DS] Syllabus - Distributed Systems"
-course: "Distributed Systems"
-tags: ["college", "syllabus", "rps", "semester-5"]
-aliases: ["DS Syllabus", "Distributed Systems Syllabus", "[DS] Syllabus - Distributed Systems"]
-created: "2026-07-27"
-type: Syllabus
+title: "[DISTSYS] Syllabus - Distributed Systems"
+course: Distributed Systems
+course_abbr: DISTSYS
+code: "12013120333"
+class_section: B
+sks: 3
+ects: 4.5
 semester: 5
+lecturer: Ery Permana Yudha S.Kom., M.Kom.
+tags:
+  - college
+  - syllabus
+  - rps
+  - distributed-systems
+  - semester-5
+aliases:
+  - DS Syllabus
+  - Distributed Systems Syllabus
+  - "[DS] Syllabus - Distributed Systems"
+created: 2026-07-27
+updated: 2026-08-13
+type: Syllabus
 ---
 
 # RENCANA PEMBELAJARAN SEMESTER (RPS)

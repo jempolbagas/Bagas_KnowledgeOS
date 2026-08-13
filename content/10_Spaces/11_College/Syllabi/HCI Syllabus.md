@@ -1,11 +1,18 @@
 ---
 title: "[HCI] Syllabus - Human & Computer Interaction"
 course: "Human & Computer Interaction"
-tags: ["college", "syllabus", "rps", "semester-5"]
+course_abbr: "HCI"
+code: "12013120231"
+class_section: "B"
+sks: 2
+ects: 3.00
+semester: 5
+lecturer: "Ery Permana Yudha, S.Kom., M.Kom."
+tags: ["college", "syllabus", "rps", "human-computer-interaction", "hci", "semester-5"]
 aliases: ["HCI Syllabus", "Human Computer Interaction Syllabus", "[HCI] Syllabus - Human & Computer Interaction"]
 created: "2026-07-27"
+updated: "2026-08-13"
 type: Syllabus
-semester: 5
 ---
 
 # RENCANA PEMBELAJARAN SEMESTER (RPS)
