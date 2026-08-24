@@ -14,15 +14,15 @@ Welcome! This is my personal Knowledge OS—a public digital garden where I shar
 Select the path below that matches what you are looking for:
 
 > [!abstract] 🔬 Looking for Gemastik KTI Notes?
-> Head over to the **[[10_Spaces/13_Gemastik_KTI|Gemastik KTI Hub]]**.
+> Head over to the **[[10 Spaces/13 Gemastik KTI|Gemastik KTI Hub]]**.
 > *Includes research background, paper context, coordination notes, and reference maps for scientific writing.*
 
 > [!education] 🎓 Are you one of my Students?
-> Head over to the **[[10_Spaces/12_Teaching/|Teaching & Student Hub]]**.
+> Head over to the **[[10 Spaces/12 Teaching/|Teaching & Student Hub]]**.
 > *Access course slides, practice problems, study guides, and concept cards.*
 
 > [!book] 📚 Looking for Reading Notes & Topic Summaries?
-> Explore the **[[20_Brain_Atlas/10_Library/Generated_Readings/|Generated Readings Library]]**.
+> Explore the **[[20 Brain Atlas/10 Library/Generated Readings/|Generated Readings Library]]**.
 > *Browse curated syntheses across AI, Computer Science, Cryptography, Cybersecurity, Mathematics, and Entrepreneurship.*
 
 ---
@@ -31,14 +31,14 @@ Select the path below that matches what you are looking for:
 
 If you prefer exploring by structure, the knowledge base is divided into two primary spaces:
 
-- **🌌 [[10_Spaces/|10_Spaces]]**: Active projects, teaching materials, and competition research.
-  - [[10_Spaces/11_College/|11_College]]
-  - [[10_Spaces/12_Teaching/|12_Teaching]]
-  - [[10_Spaces/13_Gemastik_KTI/|13_Gemastik_KTI]]
-- **🧠 [[20_Brain_Atlas/|20_Brain_Atlas]]**: Evergreen knowledge, topic concepts, and reading archives.
-  - [[20_Brain_Atlas/10_Library/Generated_Readings/|10_Library / Generated Readings]]
-  - [[20_Brain_Atlas/20_Concepts/|20_Concepts]]
-  - [[20_Brain_Atlas/30_Reference_Lib/|30_Reference_Lib]]
+- **🌌 [[10 Spaces/|10 Spaces]]**: Active projects, teaching materials, and competition research.
+  - [[10 Spaces/11 College/|11 College]]
+  - [[10 Spaces/12 Teaching/|12 Teaching]]
+  - [[10 Spaces/13 Gemastik KTI/|13 Gemastik KTI]]
+- **🧠 [[20 Brain Atlas/|20 Brain Atlas]]**: Evergreen knowledge, topic concepts, and reading archives.
+  - [[20 Brain Atlas/10 Library/Generated Readings/|10 Library / Generated Readings]]
+  - [[20 Brain Atlas/20 Concepts/|20 Concepts]]
+  - [[20 Brain Atlas/30 Reference Lib/|30 Reference Lib]]
 
 ---
 

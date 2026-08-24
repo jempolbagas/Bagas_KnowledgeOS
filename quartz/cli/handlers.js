@@ -735,7 +735,7 @@ export async function handleSync(argv) {
     const vaultPath = "/mnt/data/life-hub/10_Knowledge_OS"
     if (fs.existsSync(vaultPath)) {
       console.log(styleText("cyan", "Syncing content from Obsidian vault..."))
-      const foldersToSync = ["10_Spaces", "20_Brain_Atlas", "30_Assets"]
+      const foldersToSync = ["10 Spaces", "20 Brain Atlas", "30 Assets"]
       for (const folder of foldersToSync) {
         const src = path.join(vaultPath, folder)
         const dest = path.join(contentFolder, folder)
