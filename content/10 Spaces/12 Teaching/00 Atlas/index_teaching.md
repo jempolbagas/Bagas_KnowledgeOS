@@ -1,8 +1,9 @@
 ---
 title: "🍎 Teaching Resources Hub"
+type: index
 course: ""
 tags: [teaching, index, dashboard]
-aliases: ["🍎 Teaching Resources Hub"]
+aliases: ["🍎 Teaching Resources Hub", "index teaching"]
 created: "2026-05-01"
 ---
 
@@ -40,6 +41,10 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ### 📚 Materi Ajar (Sources)
 - 🏠 [[Persamaan Kuadrat SMP]] — Persamaan Kuadrat — Bentuk Umum, Pemfaktoran, & Rumus ABC
 - 🏠 [[Pola Bilangan SMP]] — Pola Bilangan & Barisan — Rahasia Angka Ajaib
+- 🏠 [[Bilangan_Berpangkat_dan_Sifatnya_SMP]] — Bilangan Berpangkat dan Sifat-Sifatnya — Menyingkap Keajaiban Perkalian Berulang
+  - 📄 [[Eksponen_dan_Bentuk_Akar_SMP]] — Eksponen dan Bentuk Akar — Master Dashboard Pembelajaran
+  - 📄 [[Operasi_Bentuk_Akar_dan_Merasionalkan_SMP]] — Operasi Bentuk Akar dan Merasionalkan Penyebut — Dari Geometri ke Aljabar Presisi
+  - 📄 [[Persamaan_Eksponen_dan_Notasi_Ilmiah_SMP]] — Persamaan Eksponen dan Notasi Ilmiah — Dari Aljabar Presisi ke Skala Alam Semesta
 - [[Ringkasan_PSTS_Matematika_Kelas_8_SMP]] — Ringkasan Materi & Panduan Belajar PSTS Matematika Kelas 8 SMP
 
 ---
@@ -100,14 +105,6 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA]] — Perbandingan Trigonometri dan Sudut Istimewa SMA
   - 📄 [[Sudut_Berelasi_dan_Lingkaran_Satuan_SMA]] — Sudut Berelasi dan Lingkaran Satuan SMA
   - 📄 [[Trigonometri_SMA]] — Trigonometri SMA — Master Dashboard & Peta Belajar
-
----
-
-## 🗣️ Languages (English / ESL)
-
-### 📝 Lembar Kerja (Practice)
-- [[LKPD_Perfect_Tenses_SMA]]
-- [[Soal_Perfect_Tenses_SMA]]
 
 ---
 
