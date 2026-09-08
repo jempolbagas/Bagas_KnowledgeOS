@@ -42,8 +42,6 @@ Materi ini disusun terintegrasi untuk mencapai *Capaian Pembelajaran (CP)* Fase 
 5. **Diferensiasi & Spesialisasi Sel:** Menghubungkan modifikasi bentuk sel (eritrosit bikonkaf, sel saraf berakson, sel rambut akar, sel penjaga stomata) dengan adaptasi fungsi jaringan tubuh.
 6. **Keterampilan Optik Laboratorium:** Menguasai bagian optik-mekanik mikroskop cahaya, prinsip perbesaran matematis, sifat bayangan terbalik ($180^\circ$), dan SOP pembuatan preparat basah (*wet mount*).
 
-![[infographic_biology_cell_master_overview_smp8.webp]]
-
 ---
 
 ## 🧭 Navigasi Modul (Table of Contents)
