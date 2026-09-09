@@ -49,7 +49,7 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 ---
 
-## 🗣️ Languages (English / ESL)
+## 🇬🇧 English
 
 ### 📚 Materi Ajar (Sources)
 - 🏠 [[Descriptive Text SMP]] — Descriptive Text — Guide to Describing People, Places & Things
@@ -59,7 +59,17 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 ---
 
-## 📚 Social Studies
+## 🇮🇩 Indonesian (Bahasa Indonesia)
+
+### 📚 Materi Ajar (Sources)
+- 🏠 [[Kalimat_Majemuk_SMP]] — Kalimat Majemuk — Master Guide & Pusat Navigasi Modul
+  - 📄 [[Fondasi_Klausa_dan_Kalimat_Tunggal_SMP]] — Fondasi Klausa dan Kalimat Tunggal — Anatomi Dasar Kalimat Bahasa Indonesia
+  - 📄 [[Kalimat_Majemuk_Bertingkat_SMP]] — Kalimat Majemuk Bertingkat — Dinamika Induk dan Anak Kalimat
+  - 📄 [[Kalimat_Majemuk_Setara_dan_Rapatan_SMP]] — Kalimat Majemuk Setara dan Rapatan — Harmoni Dua Klausa Mandiri
+
+---
+
+## 🌍 Social Studies (IPS / Geografi)
 
 ### 📚 Materi Ajar (Sources)
 - 🏠 [[Tenaga Eksogen SMP]] — Tenaga Eksogen & Perubahan Bentuk Muka Bumi
@@ -129,6 +139,26 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Gaya dan Medan Gravitasi SMA]] — Gaya dan Medan Gravitasi — Hukum Gravitasi Universal Newton & Variasi Medan Planet
   - 📄 [[Gravitasi dan Hukum Kepler SMA]] — Gravitasi dan Hukum Kepler — Master Guide & Mekanika Orbit Kosmik
   - 📄 [[Hukum Kepler dan Gerak Satelit SMA]] — Hukum Kepler dan Gerak Satelit — Dinamika Orbit Planet & Rekayasa Antariksa
+- 🏠 [[Besaran Sudut dan Karakteristik GMB SMA]]
+  - 📄 [[Gerak Melingkar Beraturan SMA]] — Gerak Melingkar Beraturan — Master Guide & Navigasi Modul
+  - 📄 [[Hubungan Roda Roda dan Transmisi Gerak SMA]]
+  - 📄 [[Percepatan Sentripetal dan Dinamika Melingkar SMA]]
+
+---
+
+## 🧪 Chemistry
+
+### 📚 Materi Ajar (Sources)
+- 🏠 [[Ikatan_Ion_dan_Pembentukan_Senyawa_SMA]] — Ikatan Ion dan Pembentukan Senyawa — Tarikan Elektrostatik Kation-Anion
+  - 📄 [[Ikatan_Kimia_SMA]] — Ikatan Kimia — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Ikatan_Kovalen_dan_Kepolaran_Senyawa_SMA]] — Ikatan Kovalen dan Kepolaran Senyawa — Seni Berbagi Elektron
+  - 📄 [[Ikatan_Logam_dan_Perbandingan_Sifat_Fisis_SMA]] — Ikatan Logam dan Perbandingan Sifat Fisis — Lautan Elektron & Material Maju
+  - 📄 [[Kestabilan_Unsur_dan_Lambang_Lewis_SMA]] — Kestabilan Unsur dan Lambang Lewis — Pondasi Ikatan Kimia
+- 🏠 [[Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]] — Bentuk Molekul dan Gaya Antarmolekul — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Gaya_Antarmolekul_dan_Ikatan_Hidrogen_SMA]] — Gaya Antarmolekul dan Ikatan Hidrogen — Interaksi Tak Kasat Mata
+  - 📄 [[Pengaruh_Gaya_Antarmolekul_terhadap_Sifat_Fisis_SMA]] — Pengaruh Gaya Antarmolekul terhadap Sifat Fisis — Dari Titik Didih hingga Anomali Air
+  - 📄 [[Teori_Hibridisasi_Orbital_Molekul_SMA]] — Teori Hibridisasi Orbital Molekul — Peleburan Orbital & Ikatan Sigma/Pi
+  - 📄 [[Teori_VSEPR_dan_Domain_Elektron_SMA]] — Teori VSEPR dan Domain Elektron — Meramalkan Arsitektur 3D Molekul
 
 ---
 
@@ -146,23 +176,7 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 ---
 
-## 📚 Chemistry
-
-### 📚 Materi Ajar (Sources)
-- 🏠 [[Ikatan_Ion_dan_Pembentukan_Senyawa_SMA]] — Ikatan Ion dan Pembentukan Senyawa — Tarikan Elektrostatik Kation-Anion
-  - 📄 [[Ikatan_Kimia_SMA]] — Ikatan Kimia — Master Guide & Navigasi Modul Terpadu
-  - 📄 [[Ikatan_Kovalen_dan_Kepolaran_Senyawa_SMA]] — Ikatan Kovalen dan Kepolaran Senyawa — Seni Berbagi Elektron
-  - 📄 [[Ikatan_Logam_dan_Perbandingan_Sifat_Fisis_SMA]] — Ikatan Logam dan Perbandingan Sifat Fisis — Lautan Elektron & Material Maju
-  - 📄 [[Kestabilan_Unsur_dan_Lambang_Lewis_SMA]] — Kestabilan Unsur dan Lambang Lewis — Pondasi Ikatan Kimia
-- 🏠 [[Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]] — Bentuk Molekul dan Gaya Antarmolekul — Master Guide & Navigasi Modul Terpadu
-  - 📄 [[Gaya_Antarmolekul_dan_Ikatan_Hidrogen_SMA]] — Gaya Antarmolekul dan Ikatan Hidrogen — Interaksi Tak Kasat Mata
-  - 📄 [[Pengaruh_Gaya_Antarmolekul_terhadap_Sifat_Fisis_SMA]] — Pengaruh Gaya Antarmolekul terhadap Sifat Fisis — Dari Titik Didih hingga Anomali Air
-  - 📄 [[Teori_Hibridisasi_Orbital_Molekul_SMA]] — Teori Hibridisasi Orbital Molekul — Peleburan Orbital & Ikatan Sigma/Pi
-  - 📄 [[Teori_VSEPR_dan_Domain_Elektron_SMA]] — Teori VSEPR dan Domain Elektron — Meramalkan Arsitektur 3D Molekul
-
----
-
-## 📚 Social Studies
+## 🌍 Social Studies (IPS / Geografi)
 
 ### 📚 Materi Ajar (Sources)
 - 🏠 [[Litosfer Tenaga Endogen dan Eksogen SMA]] — Litosfer — Tenaga Endogen & Eksogen Pembentuk Muka Bumi

@@ -36,9 +36,13 @@ LIMIT 10
 - [x] [[Trigonometri_SMA]] — Master Dashboard & 5 Submodul Lengkap
 - [x] [[Konsep_dan_Kesamaan_Polinomial_SMA]] — Polinomial & Horner
 
-### Languages
+### English
 - [ ] Perfect Tenses (SMA) — Master Dashboard & Submodul (*Present, Past, Future, Continuous*)
 - [ ] Present Continuous Tense (SMP) Source Material
+
+### Indonesian
+- [ ] Modul Teks LHO / Deskripsi (SMP) — Master Dashboard & Submodul
+- [ ] Modul Teks Anekdot / Negosiasi (SMA) — Master Dashboard & Submodul
 
 ---
 
